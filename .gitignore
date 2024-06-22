@@ -19,3 +19,5 @@ cmake_install.cmake
 Makefile
 install*/
 cmake-build-*/
+/.xmake
+/cmake-build

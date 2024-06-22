@@ -125,6 +125,7 @@ endif()
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/cmake/bx)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/cmake/bimg)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/cmake/bgfx)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/3rd/assimp)
 
 if(BGFX_INSTALL)
 	# Include module with fuction 'write_basic_package_version_file'

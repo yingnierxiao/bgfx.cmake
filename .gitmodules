@@ -7,3 +7,6 @@
 [submodule "bimg"]
 	path = bimg
 	url = https://github.com/bkaradzic/bimg.git
+[submodule "3rd/assimp"]
+	path = 3rd/assimp
+	url = https://github.com/assimp/assimp.git
